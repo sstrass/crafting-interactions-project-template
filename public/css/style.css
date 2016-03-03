@@ -6,10 +6,12 @@ body{
 h1{
 	font-family: 'Roboto';
 	color: red;
+	padding-left: 20px;
 }
 
 p{
 	font-family: 'Monserrat';
 	font-size: 20px;
 	color: blue;
+	margin: 20px;
 }
