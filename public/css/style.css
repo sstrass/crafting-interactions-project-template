@@ -19,3 +19,6 @@ p{
 img{
 	padding: 50px;
 }
+.left{
+	float: right;
+}
